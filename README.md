@@ -20,5 +20,14 @@ You can edit de task you have delete or mark as completed
 ![image](https://user-images.githubusercontent.com/62299941/179636998-433ee27f-a593-4bda-ba90-584bbceb9717.png)
 ![image](https://user-images.githubusercontent.com/62299941/179637038-9f921870-f606-44eb-81b4-f5dc2ff28e9b.png)
 
+You can do E2E Test with cypress you have to go to de url
+```bash
+npm install cypress --save-dev
+npx cypress open
+```
+![image](https://user-images.githubusercontent.com/62299941/179860796-8d484b82-5811-4844-8983-9b2c435f07f9.png)
+Click on specs and then you select the task folder and select de task file
+![image](https://user-images.githubusercontent.com/62299941/179860911-677b86f8-c002-4b4d-add9-43a691ad3f45.png)
+
 
 
