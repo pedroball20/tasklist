@@ -1,6 +1,7 @@
 import supabase from "../../../supabase";
 
 const index = async (req, res) => {
+  console.log("req.body");
   const { method } = req;
   console.log("method", method);
   // create a new task
@@ -59,4 +60,5 @@ const index = async (req, res) => {
     }
   }
 };
-export default index;
+// export default index;
+module.exports = index
