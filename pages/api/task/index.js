@@ -60,5 +60,5 @@ const index = async (req, res) => {
     }
   }
 };
-// export default index;
-module.exports = index
+export default index;
+// module.exports = index
