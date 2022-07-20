@@ -32,7 +32,7 @@ Click on specs and then you select the task folder and select de task file
 You can do Jest Testing by typing
 
 ```bash
-npm rus test
+npm run test
 ```
 before that you have to comment into the file \pages\api\task\index.js the export default and uncomment the module export
 ![image](https://user-images.githubusercontent.com/62299941/179871672-52571455-92a8-4bc9-b84a-3223ecebd8b3.png)
